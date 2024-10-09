@@ -32,7 +32,7 @@ projeto/ │ ├── modelos/ │ ├── pycache/ │ ├── avaliacao.p
 
 1. Clone o repositório:
 
-git clone https://github.com/eltonJramc/Manipula-o-de-Dados-JSON-e-APIs.git
+git clone https://github.com/eltonJramc/Gest-o-de-Dados-JSON-APIs-POO..git
 
 2. Navegue até o diretório do projeto:
 
